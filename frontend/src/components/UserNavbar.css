@@ -1,0 +1,41 @@
+.navbar {
+  background-color: #004b6b;
+  color: white;
+  padding: 1rem 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-links a {
+  margin-left: 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-links a:hover {
+  text-decoration: underline;
+}
+
+.btn-link {
+  color: white;
+  text-decoration: none;
+}
+
+.btn-link:hover {
+  text-decoration: underline;
+}

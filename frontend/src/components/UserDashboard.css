@@ -1,0 +1,96 @@
+body {
+  background-color: #F3F4F6;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+header {
+  background-color: #1E3A8A;
+  color: #FFFFFF;
+  padding: 16px;
+}
+
+header a {
+  color: #FFFFFF;
+  text-decoration: none;
+  margin: 0 16px;
+}
+
+header a:hover {
+  color: #93C5FD;
+}
+
+.hero {
+  background-color: #1E3A8A;
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.hero-text .btn-light {
+  background-color: white;
+  color: #1E3A8A;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 1rem;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.blog-post {
+  background-color: #FFFFFF;
+  border: 1px solid #E5E7EB;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+}
+
+.blog-post h2 {
+  color: #1E3A8A;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.blog-post p {
+  color: #4B5563;
+  font-size: 16px;
+}
+
+button {
+  background-color: #1E3A8A;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2563EB;
+}
+
+a {
+  color: #1E3A8A;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2563EB;
+}
