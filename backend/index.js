@@ -1,6 +1,6 @@
-const express = require('express');
-const bodyParser = require('body-parser');
-const mysql = require('mysql');
+import express from 'express';
+import bodyParser from 'body-parser';
+import mysql from 'mysql';
 const app = express();
 const port = 3000;
 
